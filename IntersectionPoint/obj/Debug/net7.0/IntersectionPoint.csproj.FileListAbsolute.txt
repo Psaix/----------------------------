@@ -1,0 +1,15 @@
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\bin\Debug\net7.0\IntersectionPoint.exe
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\bin\Debug\net7.0\IntersectionPoint.deps.json
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\bin\Debug\net7.0\IntersectionPoint.runtimeconfig.json
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\bin\Debug\net7.0\IntersectionPoint.dll
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\bin\Debug\net7.0\IntersectionPoint.pdb
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\obj\Debug\net7.0\IntersectionPoint.csproj.AssemblyReference.cache
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\obj\Debug\net7.0\IntersectionPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\obj\Debug\net7.0\IntersectionPoint.AssemblyInfoInputs.cache
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\obj\Debug\net7.0\IntersectionPoint.AssemblyInfo.cs
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\obj\Debug\net7.0\IntersectionPoint.csproj.CoreCompileInputs.cache
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\obj\Debug\net7.0\IntersectionPoint.dll
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\obj\Debug\net7.0\refint\IntersectionPoint.dll
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\obj\Debug\net7.0\IntersectionPoint.pdb
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\obj\Debug\net7.0\IntersectionPoint.genruntimeconfig.cache
+C:\My Stuff\С# - обучение, проекты\Алгоритмы\Нахождение точки пересечения\IntersectionPoint\obj\Debug\net7.0\ref\IntersectionPoint.dll
